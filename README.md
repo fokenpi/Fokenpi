@@ -1,6 +1,6 @@
 ## Hi there 👋
+## Hope I will fully know how to use github tools  to code as professional.
 
-<!--
 **fokenpi/Fokenpi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
